@@ -1,4 +1,4 @@
 # githubex
-<<<<<<< HEAD
-blablablabla
 
+blablablabla
+blabalbalabla22222
